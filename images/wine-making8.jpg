@@ -1,0 +1,1100 @@
+<!doctype html>
+<html class="no-js" lang="en-US" >
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="preconnect" href="https://www.google-analytics.com" />
+		<link rel="preconnect" href="https://confiant-integrations.global.ssl.fastly.net" />
+		<link rel="preconnect" href="https://player.mediafuse.com" />
+		<link rel="preconnect" href="https://p.typekit.net" />
+		<link rel="dns-prefetch" href="https://securepubads.g.doubleclick.net">
+		
+		<link rel="stylesheet" href="https://use.typekit.net/fhn5tbt.css">
+		<link rel="preload" href="https://use.typekit.net/fhn5tbt.css" as="style">
+		
+		<link rel='stylesheet' id='main-stylesheet-css'  href='/wp-content/themes/elmyr/dist/assets/css/app.css?ver=3.5.8.7' type='text/css' media='all' />
+		 
+						<link rel="preload" as="image" href="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_header-500x281.jpg" media="(max-width: 799px)">
+						<link rel="preload" as="image" href="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_header.jpg" media="(min-width: 800px)">
+								
+		<script>		  
+		   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		   ga('create', 'UA-35791346-1', 'vinepair.com');
+		   ga('set', 'anonymizeIp', true);
+		  // ga('require', 'GTM-P8FRCPG');
+		   ga('require', 'outboundLinkTracker', {
+		     events: ['click', 'auxclick', 'contextmenu']
+		   });
+				ga('set', 'dimension1', '2020-12-07');
+		ga('set', 'dimension2', 'Evan Rail');
+				ga('set', 'dimension3', 'unset');
+				  ga('send', 'pageview');
+	  	
+		</script>
+  		<!-- GA 4 -->
+  		<!-- Global site tag (gtag.js) - Google Analytics -->
+  		<script async src="https://www.googletagmanager.com/gtag/js?id=G-XG3BM0L9DD"></script>
+  		<script>
+  		  window.dataLayer = window.dataLayer || [];
+  		  function gtag(){dataLayer.push(arguments);}
+  		  gtag('js', new Date());
+  		  // gtag('config', 'G-XG3BM0L9DD',{ 'debug_mode':true });
+  		</script>
+  		<!-- End GA4 -->
+		<script>
+		
+		ga('send', 'event', 'tax_cat', 'Wine');
+gtag('event', 'WBS_data', { tax_cat: 'Wine'});
+	
+		</script>
+		<script type="text/javascript" async data-type="lazy" data-src="https://vinepair.com/wp-content/themes/elmyr/src/assets/js/autotrack.js"></script>
+				
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=e1l2m9y2r05">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=e1l2m9y2r05">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=e1l2m9y2r05">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg?v=e1l2m9y2r" color="#f04d51">
+		<link rel="shortcut icon" href="/favicon.ico?v=e1l2m9y2r05">
+						<!-- OneTrust Cookies Consent Notice start -->
+				<script type="text/javascript" async data-type="lazy" data-src="https://cdn.cookielaw.org/consent/772a1bd3-10bd-4524-a744-3cb3a4c686e3/OtAutoBlock.js"></script>
+				<script  type="text/javascript" charset="UTF-8" data-domain-script="772a1bd3-10bd-4524-a744-3cb3a4c686e3" data-type="lazy" data-src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"></script>
+				<script type="text/javascript">
+					var pixelLDU = 'LDU';
+					function OptanonWrapper() { 
+						if (OptanonActiveGroups.indexOf(',C0004,') == -1) {
+						 } else  { 
+							 // do nothing
+						} 
+					}
+				</script>
+				<!-- OneTrust Cookies Consent Notice end -->
+				<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" type="application/rss+xml" title="VinePair &raquo; RSS Feed" href="https://vinepair.com/feed/" />
+	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>How Chile Became One of the Most Sustainable Winemaking Countries in the World | VinePair</title>
+	<meta name="description" content="Chile is making it increasingly easy to find great wines that are also environmentally and socially responsible, and certified sustainable." />
+	<link rel="canonical" href="https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="How Chile Became One of the Most Sustainable Winemaking Countries in the World" />
+	<meta property="og:description" content="Chile is making it increasingly easy to find great wines that are also environmentally and socially responsible, and certified sustainable." />
+	<meta property="og:url" content="https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/" />
+	<meta property="og:site_name" content="VinePair" />
+	<meta property="article:publisher" content="https://www.facebook.com/Vinepair" />
+	<meta property="article:published_time" content="2020-12-07T11:50:13+00:00" />
+	<meta property="article:modified_time" content="2021-05-07T01:15:14+00:00" />
+	<meta property="og:image" content="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_social_1.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="627" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:description" content="Chile is making it increasingly easy to find great wines that are also environmentally and socially responsible, and certified sustainable." />
+	<meta name="twitter:image" content="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_social_1.jpg" />
+	<meta name="twitter:creator" content="@VinePair" />
+	<meta name="twitter:site" content="@VinePair" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Evan Rail" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="5 minutes" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #1779ba;--wp--preset--color--secondary: #767676;--wp--preset--color--success: #3adb76;--wp--preset--color--warning: #ffae00;--wp--preset--color--alert: #cc4b37;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type='text/javascript' src='https://vinepair.com/wp-content/themes/elmyr/src/assets/js/lib/jquery-3.5.1.min.js?ver=5.9.2' id='jquery-js'></script>
+<script type='text/javascript' src='https://vinepair.com/wp-content/themes/elmyr/src/assets/js/lib/jquery-migrate-3.3.1.min.js?ver=5.9.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://vinepair.com/wp-json/" /><link rel="alternate" type="application/json" href="https://vinepair.com/wp-json/wp/v2/posts/90218" />			<meta property="fb:pages" content="481722305228597" />
+				 	<script type='text/javascript'>
+	 		// https://github.com/jquery/jquery/issues/2871#issuecomment-497963776
+	 		jQuery.event.special.touchstart = {
+	 		  setup: function( _, ns, handle ){
+	 		    this.addEventListener("touchstart", handle, { passive: true });
+	 		  }
+	 		};
+	 	</script>
+	
+	
+	
+	<script type='text/javascript' data-type="lazy" data-src="data:text/javascript;base64,CgkgICAgKGZ1bmN0aW9uKCkgewoJICAgICAgICAvKiogQ09ORklHVVJBVElPTiBTVEFSVCAqKi8KCSAgICAgICAgdmFyIF9zZl9hc3luY19jb25maWcgPSB3aW5kb3cuX3NmX2FzeW5jX2NvbmZpZyA9ICh3aW5kb3cuX3NmX2FzeW5jX2NvbmZpZyB8fCB7fSk7CgoJICAgICAgICBfc2ZfYXN5bmNfY29uZmlnLnVpZCA9IDU3NjE2IAoJICAgICAgICBfc2ZfYXN5bmNfY29uZmlnLmRvbWFpbiA9ICd2aW5lcGFpci5jb20nOyAKCSAgICAgICAgX3NmX2FzeW5jX2NvbmZpZy5mbGlja2VyQ29udHJvbCA9IGZhbHNlOwoJICAgICAgICBfc2ZfYXN5bmNfY29uZmlnLnVzZUNhbm9uaWNhbCA9IHRydWU7CgkgICAgICAgIF9zZl9hc3luY19jb25maWcudXNlQ2Fub25pY2FsRG9tYWluID0gdHJ1ZTsKCQkJCQkJCgkgICAgICAgIF9zZl9hc3luY19jb25maWcuc2VjdGlvbnMgPSAnd2JzX2NhdCBXaW5lLCAgY2hpbGUsIHN1c3RhaW5hYmlsaXR5LCB3aW5lcyBvZiBjaGlsZSwgUGFydG5lcic7CgkgICAgICAgIF9zZl9hc3luY19jb25maWcuYXV0aG9ycyA9ICdFdmFuIFJhaWwnOwoJCQlfc2ZfYXN5bmNfY29uZmlnLnR5cGUgPSAncG9zdCc7IAoJCQlfc2ZfYXN5bmNfY29uZmlnLnNwb25zb3JOYW1lID0gJ1dpbmVzIG9mIENoaWxlIDIwMjAnOyAJCQkKCQkJCgkgICAgICAgIC8qKiBDT05GSUdVUkFUSU9OIEVORCAqKi8KCSAgICAgICAgZnVuY3Rpb24gbG9hZENoYXJ0YmVhdCgpIHsKCSAgICAgICAgICAgIHZhciBlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7CgkgICAgICAgICAgICB2YXIgbiA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKCSAgICAgICAgICAgIGUudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOwoJICAgICAgICAgICAgZS5hc3luYyA9IHRydWU7CgkgICAgICAgICAgICBlLnNyYyA9ICcvL3N0YXRpYy5jaGFydGJlYXQuY29tL2pzL2NoYXJ0YmVhdC5qcyc7CgkgICAgICAgICAgICBuLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGUsIG4pOwoJICAgICAgICB9CgkgICAgICAgIGxvYWRDaGFydGJlYXQoKTsKCSAgICAgfSkoKTsKCQ=="></script>	 
+			 
+<!-- Standard Wrapper for Vinepair created on 6.10.20 -->
+<script>
+    var myPropertyId = 'TuxhpSDkaSHSzQCT2yeNi-FfNws';
+    window.confiant = window.confiant || {};
+    window.confiant[myPropertyId] = window.confiant[myPropertyId] || {clientSettings: {}};
+    var clientSettings = window.confiant[myPropertyId].clientSettings || (window.confiant[myPropertyId].clientSettings = {});
+    clientSettings.prebidNameSpace = 'vmpbjs';
+</script>
+<script async="async" src="https://confiant-integrations.global.ssl.fastly.net/TuxhpSDkaSHSzQCT2yeNi-FfNws/gpt_and_prebid/config.js"></script>
+	<!-- INIT HBMP and start listening for new placements -->
+	<script  class="optanon-category-C0004"> !(function() { window.googletag = window.googletag || {}; window.vmpbjs = window.vmpbjs || {}; window.vpb = window.vpb || {}; vpb.st=Date.now(); vpb.fastLoad = true; googletag.cmd = googletag.cmd || []; vmpbjs.cmd = vmpbjs.cmd || []; var cmds = googletag.cmd.slice(0) || []; googletag.cmd.length = 0; var ready = false; function exec(cb) { return cb.call(googletag); } googletag.cmd.push(function() { googletag.cmd.unshift = function(cb) { if (ready) { return exec(cb); } cmds.unshift(cb); if (cb._startgpt) { ready = true; for (var k = 0;k<cmds.length;k++){exec(cmds[k]);} } }; googletag.cmd.push = function(cb) { if (ready) { return exec(cb); } cmds.push(cb); }; }); googletag.cmd.push = function(cb) { cmds.push(cb) }; googletag.cmd.unshift = function(cb) { cmds.unshift(cb); if (cb._startgpt) { ready = true; if (googletag.apiReady) { cmds.forEach(function(cb) { googletag.cmd.push(cb); }) } else { googletag.cmd = cmds; } } }; var dayMs = 36e5, cb = parseInt(Date.now() / dayMs), vpbSrc = '//player.mediafuse.com/prebidlink/' + cb + '/uam2_wrapper_hb_305966_6621.js', pbSrc = vpbSrc.replace('uam2_wrapper_hb', 'hb'), gptSrc = '//securepubads.g.doubleclick.net/tag/js/gpt.js', c = document.head || document.body || document.documentElement; function loadScript(src, cb) { var s = document.createElement('script'); s.src = src; s.defer = false; c.appendChild(s); s.onload = cb; s.onerror = function() { var fn = function() { }; fn._startgpt = true; googletag.cmd.unshift(fn); }; return s; } loadScript(pbSrc); loadScript(gptSrc); loadScript(vpbSrc); })() </script>
+
+	<!--Load UAM API-->
+	<script  class="optanon-category-C0004"> !function(a9, a, p, s, t, A, g) { if (a[a9]) return; function q(c, r) { a[a9]._Q.push([c, r]) } a[a9] = { init: function() { q("i", arguments) }, fetchBids: function() { q("f", arguments) }, setDisplayBids: function() { }, targetingKeys: function() { return [] }, _Q: [] }; A = p.createElement(s); A.async = !0; A.src = t; g = p.getElementsByTagName(s)[0]; g.parentNode.insertBefore(A, g) }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js"); </script>
+	<script async type="text/javascript" data-type="lazy" data-src="/wp-content/themes/elmyr/src/assets/js/in-view.min.js"></script>
+	<script async data-type="lazy" data-src="/wp-content/themes/elmyr/src/assets/js/postscribe.min.js"></script>
+	
+	<!-- Facebook Pixel Code -->
+	<script type="text/javascript" class="optanon-category-C0008" data-type="lazy" data-src="data:text/javascript;base64,CgkhZnVuY3Rpb24oZixiLGUsdixuLHQscyl7aWYoZi5mYnEpcmV0dXJuO249Zi5mYnE9ZnVuY3Rpb24oKXtuLmNhbGxNZXRob2Q/CgluLmNhbGxNZXRob2QuYXBwbHkobixhcmd1bWVudHMpOm4ucXVldWUucHVzaChhcmd1bWVudHMpfTtpZighZi5fZmJxKWYuX2ZicT1uOwoJbi5wdXNoPW47bi5sb2FkZWQ9ITA7bi52ZXJzaW9uPScyLjAnO24ucXVldWU9W107dD1iLmNyZWF0ZUVsZW1lbnQoZSk7dC5hc3luYz0hMDsKCXQuc3JjPXY7cz1iLmdldEVsZW1lbnRzQnlUYWdOYW1lKGUpWzBdO3MucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUodCxzKX0od2luZG93LAoJZG9jdW1lbnQsJ3NjcmlwdCcsJ2h0dHBzOi8vY29ubmVjdC5mYWNlYm9vay5uZXQvZW5fVVMvZmJldmVudHMuanMnKTsKCWZicSgnZGF0YVByb2Nlc3NpbmdPcHRpb25zJywgW3BpeGVsTERVXSwgMCwgMCk7CglmYnEoJ2luaXQnLCAnMjQwMjk5MDg3OTk3NzkzOCcpOwoJZmJxKCd0cmFjaycsICdQYWdlVmlldycpOwoJZmJxKCd0cmFjaycsICdWaWV3Q29udGVudCcse3RheF9jYXQ6IFsnV2luZScsXX0pOwpmYnEoJ3RyYWNrJywgJ1ZpZXdDb250ZW50Jyx7dGF4X3RhZzogWydjaGlsZScsJ3N1c3RhaW5hYmlsaXR5Jywnd2luZXMgb2YgY2hpbGUnLF19KTsKCQ=="></script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=2402990879977938&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
+	
+	
+				<script type="text/javascript">
+				window.audigentData = {
+			tax_cat: ['Wine',],
+tax_tag: ['chile','sustainability','wines of chile',]
+		};
+		</script>
+			
+
+	<meta property="fb:admins" content="2604330" />
+	<meta property="fb:admins" content="2600851" />
+	<meta property="fb:pages" content="481722305228597" />
+	<meta property="fb:app_id" content="668775079822934" />
+	<meta name="msvalidate.01" content="E2094F2F289CDEF921A2319468FD71A7" />
+
+	
+
+
+		<!-- Need To Move To Orbit Carousel For The Three Articles -->
+	
+	
+	
+
+	<script type="text/javascript" class="optanon-category-C0004">
+  	  var googletag = googletag || {};
+  	  googletag.cmd = googletag.cmd || [];
+  		  var REFRESH_KEY = 'refresh';
+          var REFRESH_VALUE = 'true';
+			 
+	  var ads = {};
+      var isMobile = /iPhone|iPod|BlackBerry|Opera Mini|(android|bbd+|meego).+mobile/i.test(
+        navigator.userAgent
+      );
+
+	  /* -------------------------- */
+  googletag.cmd.push(function() {
+	  
+ 	  	 	googletag.pubads().setTargeting('skipHB', '1');
+ 	 		function loadAdonFastCon() {
+				return googletag.defineSlot('/82631139/Mobile_Outstream', [1, 1], 'div-gpt-ad-1509556474574-1').setTargeting('is_home', 'no').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').addService(googletag.pubads());
+			}
+			function checkInternetSpeed() {
+				if (/\slow-2g|2g|3g/.test(navigator.connection.effectiveType)) {
+					this.connection = "slow";
+				} else {
+					this.connection = "Fast connection";
+					loadAdonFastCon();
+				}
+			}
+			if (isMobile) {
+				if (navigator.connection) {
+					checkInternetSpeed();
+				} else { 
+					this.connection = "unknown";
+					loadAdonFastCon();
+				}
+			
+	
+	  googletag.defineSlot('/82631139/MOB_1x1', [1, 1], 'div-gpt-ad-1557193251712-0').setTargeting('is_home', 'no').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').addService(googletag.pubads());
+		
+		
+		googletag.defineSlot('/82631139/MOB_Leaderboard', [320,50], 'MOB_Leaderboard').setTargeting('is_home', 'no').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').addService(googletag.pubads());
+	  // Slots That Used To be Auto
+	  mob_ad=googletag.defineSlot('/82631139/MOB_Adhesion', [320, 50], 'MOB_Adhesion').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').addService(googletag.pubads());
+
+	  
+	} else {
+	  googletag.defineSlot('/82631139/Desktop_Outstream', [1, 1], 'div-gpt-ad-1509556474574-0').setTargeting('is_home', 'no').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').addService(googletag.pubads());
+	// Slots That Used To be Auto
+	   googletag.defineSlot('/82631139/DSK_Rectangle_1', [[300, 600], [160, 600], [300, 250]], 'DSK_Rectangle_1').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').addService(googletag.pubads());
+	   sticky_rail=googletag.defineSlot('/82631139/DSK_Rectangle_2', [[300, 600], [300, 250]], 'DSK_Rectangle_2').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').setTargeting(REFRESH_KEY, REFRESH_VALUE).setTargeting('test','event').addService(googletag.pubads());
+	   googletag.defineSlot('/82631139/DSK_Leaderboard_1', [[1000, 300], [970, 250], [728, 90], [970, 90]], 'DSK_Leaderboard_1').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').addService(googletag.pubads());
+	   googletag.defineSlot('/82631139/DSK_Leaderboard_2', [728, 90], 'DSK_Leaderboard_2').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').addService(googletag.pubads());
+		}
+		
+		 googletag.defineSlot('/82631139/Native_1x1', [1, 1], 'div-gpt-ad-1598548500304-0').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes').addService(googletag.pubads());
+		
+				
+						inContentAds(ads);
+
+				//googletag.pubads().enableLazyLoad({
+				//fetchMarginPercent: 0,
+				//renderMarginPercent: 0,
+				//});
+								googletag.pubads().enableSingleRequest();
+								googletag.pubads().disableInitialLoad();
+		  
+						   var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 1;
+						    googletag.pubads().addEventListener('impressionViewable', function(event) {
+				    var slot = event.slot;
+				    if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+				      setTimeout(function() {
+				        googletag.pubads().refresh([sticky_rail]);
+				      }, 30000);
+				    }
+				  });
+						googletag.enableServices();
+					  });
+
+						if (isMobile) {
+					  setInterval(function() {
+				      googletag.cmd.push(function() {
+				        googletag.pubads().refresh([mob_ad]);
+				      });
+				    }, 30000);} 
+		
+					/*	else {setInterval(function() {
+				      googletag.cmd.push(function() {
+				        googletag.pubads().refresh([sticky_rail]);
+				      });
+				    }, 30000);} */
+
+					</script>
+	
+	<script>
+	$.fn.stickyAdSlot = function (section) {
+			var $block = $(this);
+			var $section = $(section);
+
+			var stickyTimeout;
+			// var wpAdminPanelShow = $('#wpadminbar').css('display') === 'block';
+			var offset = '0';
+			
+			if ($block.hasClass('stickyAd')) {
+				$block.css('background-color', '#fff');
+			}
+			
+			/*
+			if ($block.hasClass('ad-unit-sticky')) {
+					clearTimeout(stickyTimeout);
+					if ($(window).scrollTop() > $section.offset().top) {
+							$block.addClass('stickyAd').css('top', offset);
+							if (stickyTimeout == undefined) {
+									var stickyTimeout = setTimeout(function() {
+											$block.removeClass('stickyAd').removeClass('ad-unit-sticky');
+									}, 7000);
+							}
+					} else {
+							$block.removeClass('stickyAd');
+					}
+			} else {
+					if ($(window).scrollTop() <= $section.offset().top) {
+							$block.addClass('ad-unit-sticky');
+							clearTimeout(stickyTimeout);
+					}
+			} */
+	};
+	
+    
+
+	if (isMobile) {
+		$('#MOB_Leaderboard').addClass('ad-unit-sticky');
+
+		$(window).scroll(function () {
+			$('#MOB_Leaderboard').stickyAdSlot('header.site-header');
+		});
+	}
+	
+    setTimeout(function () {      
+            $("#MOB_Leaderboard").removeClass("stickyAd");         
+   }, 10000);
+</script>
+    	<!-- Audience Tag PExtend -->
+ 	<script async defer type="text/javascript" class="optanon-category-C0004" data-type="lazy" data-src="https://one.progmxs.com/seg?add=26951177&t=1"></script>
+ 	<!-- End Audience Tag -->
+	</head>
+
+	<body class="post-template-default single single-post postid-90218 single-format-standard topbar single-standard mobile-chunk">
+				<script> var vpb = window.vpb || {}; apstag.init({pubID: '171208af-037d-48f1-af92-1c24c2ee644a', adServer: 'googletag', simplerGPT: true}); function Monitor(count, endCallback) { this.partsReturned = 0; this.partsCalled = 0; this.triggerEnd = function () { endCallback && endCallback(); }; this.getPartHook = function (callback) { var self = this; if (count == self.partsReturned) { throw new Error('Monitor was inited with ' + count + ' parts'); } self.partsReturned++; return function () { self.partsCalled++; callback && callback.apply(null, arguments); if (self.partsCalled == count) { self.triggerEnd(); } } }; this.reset = function () { this.partsReturned = 0; this.partsCalled = 0; } } function runAds(slots, opts) { var monitor = new Monitor(2, function OnEveryoneReady() { googletag.pubads().refresh(slots, {vpb: true}); }); vpb.friendlyAuction(slots, monitor.getPartHook(function (slots) { })); var uamConfig = {timeout: 2000}; if (slots) { uamConfig.slots = slots; } apstag.fetchBids(uamConfig, monitor.getPartHook(function (bids) { apstag.setDisplayBids(); })); } </script>
+						
+		
+	<header class="site-header" role="banner">
+		<div class="site-title-bar title-bar" data-responsive-toggle="mobile-menu">
+			<div class="title-bar-left">
+				<button aria-label="Main Menu" class="menu-icon" type="button" data-toggle="mobile-menu"></button>
+				
+			</div>
+			<div class="title-bar-center">
+				<span class="site-mobile-title title-bar-title">
+				<a href="https://vinepair.com/" rel="home">
+	<svg version="1.1" id="top-bar-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+		 viewbox="0 0 566 170.8"  xml:space="preserve" aria-label="VinePair - Drinking Is Culture">
+					 <title id="top-bar-logo">VinePair - Drinking Is Culture</title>
+	<style type="text/css">
+		.stlogo{fill:#FFFFFF;}	#top-bar-logo {display: inline-block;    vertical-align: middle;    max-width: 100%;    height: auto;} @media screen and (max-width:49.9375em){ #top-bar-logo {height: 35px;} }
+	</style>
+	<g>
+		<g>
+			<path class="stlogo" d="M208.5,41.7c-2.8,0-5,2.2-5,5v61.6l-44.9-64.4c-1.2-1.8-3.5-2.6-5.6-1.9s-3.5,2.6-3.5,4.8v77.5				c0,2.8,2.2,5,5,5s5-2.2,5-5V62.8l44.9,64.4c1,1.4,2.5,2.1,4.1,2.1c0.5,0,1-0.1,1.5-0.2c2.1-0.7,3.5-2.6,3.5-4.8V46.8				C213.5,44,211.3,41.7,208.5,41.7"/>
+			<path class="stlogo" d="M123.4,41.7c-2.8,0-5,2.2-5,5v77.5c0,2.8,2.2,5,5,5s5-2.2,5-5V46.7C128.4,44,126.2,41.7,123.4,41.7"/>
+			<path class="stlogo" d="M452.5,41.7c-2.8,0-5,2.2-5,5v77.5c0,2.8,2.2,5,5,5s5-2.2,5-5V46.7C457.5,44,455.2,41.7,452.5,41.7"/>
+			<path class="stlogo" d="M483,128.5c2.4,0,4.3-1.9,4.3-4.3v-21.6h19c0.2,0,0.3,0,0.5,0h0.7l17.1,24.1c0.8,1.1,2.1,1.8,3.5,1.8				c0.9,0,1.7-0.3,2.5-0.8c1.9-1.4,2.4-4,1-6l-14.8-20.9l0.8-0.3c11.5-4.6,18.9-15.6,18.9-27.9c0-16.6-13.5-30.1-30.1-30.1h-23.2				c-2.4,0-4.3,1.9-4.3,4.3v77.5C478.7,126.6,480.6,128.5,483,128.5z M487.3,51h19c11.9,0,21.5,9.7,21.5,21.5S518.1,94,506.3,94h-19				V51z"/>
+			<path class="stlogo" d="M62.6,97.2c0.1,0.2,0.3,0.4,0.5,0.6l0.5,0.5l-0.4,0.5c-2.1,2.5-4.9,5.9-6.1,7.9c-0.3,0.4-0.5,0.9-0.7,1.3				c-0.3,0.5-0.5,1-0.7,1.4c-0.7,1.7-1,3.4-1,5.2c0,7.4,5.8,13.4,13.1,13.8c0.1,0,0.7,0,0.7,0h0.7c7.4-0.4,13.1-6.5,13.1-13.8				c0-1.8-0.3-3.5-1-5.2c-0.2-0.5-0.4-0.9-0.7-1.4c-0.2-0.5-0.5-0.9-0.7-1.3c-1.3-2.2-4.4-6-6.2-8.1l-0.4-0.5l0.4-0.5				c0.2-0.2,0.3-0.4,0.4-0.5l32.3-48.2c0.6-0.9,0.9-2.1,0.6-3.2c-0.2-1.1-0.9-2.1-1.8-2.7c-0.7-0.5-1.5-0.7-2.4-0.7				c-1.4,0-2.8,0.7-3.6,1.9l-31,46.2L37.4,44.2c-0.8-1.2-2.1-1.9-3.6-1.9c-0.8,0-1.7,0.2-2.4,0.7c-0.9,0.6-1.6,1.6-1.8,2.7				s0,2.3,0.6,3.2L62.6,97.2z M63.9,112c0.2-0.3,0.3-0.6,0.5-0.9c0.7-1.1,2.3-3.2,3.5-4.7l0.6-0.7l0.6,0.7c1.2,1.5,2.9,3.6,3.6,4.7				c0.2,0.3,0.3,0.6,0.5,0.9c0.1,0.2,0.2,0.4,0.3,0.6c0.3,0.6,0.4,1.3,0.4,2c0,2.8-2.2,5.1-5,5.3h-0.3h-0.3c-2.8-0.2-4.9-2.5-4.9-5.3				c0-0.7,0.1-1.4,0.4-2.1C63.7,112.5,63.8,112.3,63.9,112z"/>
+			<path class="stlogo" d="M236.5,128.5H277c2.4,0,4.3-1.9,4.3-4.3s-1.9-4.3-4.3-4.3h-36.2V89.2H265c2.4,0,4.3-1.9,4.3-4.3				s-1.9-4.3-4.3-4.3h-24.2V50.9H277c2.4,0,4.3-1.9,4.3-4.3s-1.9-4.3-4.3-4.3h-40.5c-2.4,0-4.3,1.9-4.3,4.3v77.5				C232.3,126.6,234.2,128.5,236.5,128.5z"/>
+			<path class="stlogo" d="M365.1,128.2c0.5,0.2,1.1,0.3,1.6,0.3c1.8,0,3.3-1,4-2.7l9.4-23.2h36.2l9.4,23.2c0.7,1.6,2.2,2.7,4,2.7				c0.5,0,1.1-0.1,1.6-0.3c1.1-0.4,1.9-1.2,2.3-2.3s0.5-2.2,0-3.3L402.1,45c-0.7-1.6-2.2-2.7-4-2.7s-3.3,1.1-4,2.7l-31.5,77.6				c-0.4,1.1-0.4,2.2,0,3.3C363.3,126.9,364.1,127.8,365.1,128.2z M398.3,58l14.6,36h-29.3L398.3,58z"/>
+			<path class="stlogo" d="M299.4,98.4c2.3,2.3,5.2,3.8,8.4,4.2h0.1c0.4,0.1,1,0.1,4.2,0.1c1.1,0,2.4,0,3.6,0h0.7v21.5				c0,2.4,1.9,4.3,4.3,4.3s4.3-1.9,4.3-4.3v-21.6h5.5c16.6,0,30.1-13.5,30.1-30.1S347,42.4,330.4,42.4h-28c-2.4,0-4.3,1.9-4.3,4.3				s1.9,4.3,4.3,4.3h28c11.9,0,21.5,9.7,21.5,21.5S342.2,94,330.4,94h-5.5v-0.7c0-4.4,0-6.8-0.1-7.5v-0.1c-0.5-3.2-1.9-6.1-4.2-8.4				c-2.3-2.3-5.2-3.8-8.5-4.2c-0.7-0.1-1.4-0.1-2.1-0.1s-1.4,0.1-2.1,0.1c-3.2,0.5-6.2,1.9-8.5,4.2s-3.8,5.2-4.2,8.5				c-0.2,1.4-0.2,2.8,0,4.2C295.6,93.1,297.1,96.1,299.4,98.4z M303.6,86.9c0.2-1.4,0.8-2.6,1.8-3.6s2.2-1.6,3.6-1.8				c0.3,0,0.6-0.1,0.9-0.1s0.6,0,0.9,0.1c1.4,0.2,2.6,0.8,3.6,1.8s1.6,2.2,1.8,3.6c0,0.9,0,4.5,0,6.6v0.7h-0.7c-1.2,0-2.5,0-3.6,0				c-2,0-2.8,0-3.1,0c-1.3-0.2-2.5-0.8-3.5-1.8s-1.6-2.2-1.8-3.6C303.5,88.1,303.5,87.5,303.6,86.9z"/>
+		</g>
+		<path class="stlogo" d="M0,0v170.8h566V0H0z M557.3,162H8.8V8.8h548.5V162z"/>
+	</g>
+	</svg>
+	
+		</a>				</span>
+			</div>
+			<div class="title-bar-right">
+								<a href="#search" class="searchButton"><svg style="height: 30px; width: 30px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewbox="0 0 110.48 110.48" xml:space="preserve"><style type="text/css">	.search-mobile-svg{fill:#F04E52;stroke:#F04E52;stroke-width:3;stroke-miterlimit:10;}</style><path class="search-mobile-svg" d="M104.12,100.61L74.83,71.32c6.39-7.23,9.92-16.4,9.92-26.14c0-10.57-4.12-20.51-11.59-27.98	C57.74,1.77,32.63,1.77,17.2,17.2s-15.43,40.53,0,55.96c7.47,7.47,17.41,11.59,27.98,11.59c9.74,0,18.91-3.53,26.14-9.92	l29.29,29.29c0.48,0.48,1.12,0.73,1.76,0.73s1.27-0.24,1.76-0.73C105.09,103.15,105.09,101.58,104.12,100.61z M20.71,69.65	c-6.53-6.53-10.13-15.22-10.13-24.47s3.6-17.93,10.13-24.47s15.23-10.13,24.47-10.13s17.93,3.6,24.47,10.13s10.14,15.23,10.14,24.47	s-3.6,17.93-10.14,24.47S54.43,79.79,45.18,79.79S27.25,76.19,20.71,69.65z"/></svg></a>
+							</div>
+		</div>
+
+		<nav class="site-navigation top-bar" role="navigation">
+			<div class="top-bar-left">
+				<div class="site-desktop-title top-bar-title">
+
+					<ul id="menu-the-menu" class="dropdown menu desktop-menu" data-dropdown-menu><li id="menu-item-63382" class="menu-news-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first menu-item-63382"><a href="https://vinepair.com/join-newsletters/"><svg style="height: 16px; width: 21px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewbox="0 0 138.08 104.74" xml:space="preserve"><style type="text/css">	.nl-svg{fill:#F04E52;stroke:#F04E52;stroke-width:3;stroke-miterlimit:10;}</style><path class="nl-svg" d="M128.44,8.71c-0.09-0.14-0.15-0.29-0.27-0.41c-0.04-0.04-0.1-0.06-0.15-0.1c-3.55-3.75-8.54-6.13-14.11-6.13	H24.17c-10.74,0-19.47,8.74-19.47,19.47v60.29c0,10.74,8.74,19.47,19.47,19.47h89.75c10.74,0,19.47-8.74,19.47-19.47V21.55	C133.39,16.61,131.48,12.14,128.44,8.71z M113.91,7.04c3.36,0,6.42,1.2,8.88,3.12L69.61,63.35l-53.7-53.7	c2.35-1.64,5.19-2.61,8.26-2.61H113.91z M128.42,81.84c0,8-6.51,14.51-14.51,14.51H24.17c-8,0-14.51-6.51-14.51-14.51V21.55	c0-3.14,1.03-6.03,2.72-8.4l55.47,55.47c0.47,0.47,1.1,0.73,1.76,0.73s1.29-0.26,1.76-0.73l54.79-54.79	c1.42,2.24,2.27,4.88,2.27,7.72V81.84z"/></svg></a></li>
+<li id="menu-item-26798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26798"><a target="_blank" rel="noopener" href="https://store.vinepair.com">Shop</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-43429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43429"><a href="https://store.vinepair.com/collections/apparel">Apparel</a></li>
+	<li id="menu-item-35771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35771"><a href="https://store.vinepair.com/collections/barware">Barware</a></li>
+	<li id="menu-item-35774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35774"><a href="https://store.vinepair.com/collections/glassware">Glassware</a></li>
+	<li id="menu-item-43428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43428"><a href="https://store.vinepair.com/collections/tabletop">Tabletop</a></li>
+</ul>
+</li>
+<li id="menu-item-46467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46467"><a>Articles</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-48013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48013"><a href="https://vinepair.com/explore/category/beer/?post_type=post">Beer</a></li>
+	<li id="menu-item-64876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64876"><a href="https://vinepair.com/explore/category/cheese/?post_type=post">Cheese</a></li>
+	<li id="menu-item-64875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64875"><a href="https://vinepair.com/explore/category/coffee/?post_type=post">Coffee</a></li>
+	<li id="menu-item-48014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48014"><a href="https://vinepair.com/explore/category/spirit/?post_type=post">Spirits</a></li>
+	<li id="menu-item-48012" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48012"><a href="https://vinepair.com/explore/category/wine/?post_type=post">Wine</a></li>
+	<li id="menu-item-46466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46466"><a href="https://vinepair.com/booze-news/">Booze News</a></li>
+	<li id="menu-item-59567" class="menu-item menu-item-type-post_type_archive menu-item-object-picks menu-item-59567"><a href="https://vinepair.com/picks/">Picks</a></li>
+</ul>
+</li>
+<li id="menu-item-63362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-63362"><a href="https://vinepair.com/columns/">Columns</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-76793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76793"><a href="https://vinepair.com/ask-adam/">Ask Adam</a></li>
+	<li id="menu-item-70093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70093"><a href="https://vinepair.com/brew-it-yourself/">BIY – Brew It Yourself</a></li>
+	<li id="menu-item-30899" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30899"><a href="https://vinepair.com/buy-this-booze/">Buy This Booze</a></li>
+	<li id="menu-item-63366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63366"><a href="https://vinepair.com/free-pour/">Free Pour</a></li>
+	<li id="menu-item-30900" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30900"><a href="https://vinepair.com/good-wine-reviews/">Good Wine You Can Actually Find</a></li>
+	<li id="menu-item-68209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68209"><a href="https://vinepair.com/lucky-sevens/">Lucky Sevens</a></li>
+	<li id="menu-item-63367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63367"><a href="https://vinepair.com/need-to-know/">Need To Know</a></li>
+	<li id="menu-item-64877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64877"><a href="https://vinepair.com/get-sauced/">Sauced</a></li>
+	<li id="menu-item-76884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76884"><a href="https://vinepair.com/we-asked/">We Asked</a></li>
+</ul>
+</li>
+<li id="menu-item-15913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-last menu-item-15913"><a>Reviews</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-110810" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-110810"><a href="https://vinepair.com/articles/best-spirits-2021/">50 Best Spirits</a></li>
+	<li id="menu-item-110011" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-110011"><a href="https://vinepair.com/articles/best-wines-2021/">50 Best Wines</a></li>
+	<li id="menu-item-108368" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-108368"><a href="https://vinepair.com/buy-this-booze/25-best-rose-wines-2020/">25 Best Rosés</a></li>
+	<li id="menu-item-30897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30897"><a href="https://vinepair.com/review/category/beer/">Beer Reviews</a></li>
+	<li id="menu-item-79501" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79501"><a href="https://vinepair.com/review/category/hard-seltzer/">Hard Seltzer Reviews</a></li>
+	<li id="menu-item-78892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-78892"><a href="https://vinepair.com/review/category/spirits/">Spirits Reviews</a></li>
+	<li id="menu-item-63361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63361"><a href="https://vinepair.com/review/category/wine/">Wine Reviews</a></li>
+</ul>
+</li>
+</ul>				</div>
+			</div>
+							<div class="top-bar-center">
+					<a href="https://vinepair.com/" rel="home">
+	<svg version="1.1" id="top-bar-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+		 viewbox="0 0 566 170.8"  xml:space="preserve" aria-label="VinePair - Drinking Is Culture">
+					 <title id="top-bar-logo">VinePair - Drinking Is Culture</title>
+	<style type="text/css">
+		.stlogo{fill:#FFFFFF;}	#top-bar-logo {display: inline-block;    vertical-align: middle;    max-width: 100%;    height: auto;} @media screen and (max-width:49.9375em){ #top-bar-logo {height: 35px;} }
+	</style>
+	<g>
+		<g>
+			<path class="stlogo" d="M208.5,41.7c-2.8,0-5,2.2-5,5v61.6l-44.9-64.4c-1.2-1.8-3.5-2.6-5.6-1.9s-3.5,2.6-3.5,4.8v77.5				c0,2.8,2.2,5,5,5s5-2.2,5-5V62.8l44.9,64.4c1,1.4,2.5,2.1,4.1,2.1c0.5,0,1-0.1,1.5-0.2c2.1-0.7,3.5-2.6,3.5-4.8V46.8				C213.5,44,211.3,41.7,208.5,41.7"/>
+			<path class="stlogo" d="M123.4,41.7c-2.8,0-5,2.2-5,5v77.5c0,2.8,2.2,5,5,5s5-2.2,5-5V46.7C128.4,44,126.2,41.7,123.4,41.7"/>
+			<path class="stlogo" d="M452.5,41.7c-2.8,0-5,2.2-5,5v77.5c0,2.8,2.2,5,5,5s5-2.2,5-5V46.7C457.5,44,455.2,41.7,452.5,41.7"/>
+			<path class="stlogo" d="M483,128.5c2.4,0,4.3-1.9,4.3-4.3v-21.6h19c0.2,0,0.3,0,0.5,0h0.7l17.1,24.1c0.8,1.1,2.1,1.8,3.5,1.8				c0.9,0,1.7-0.3,2.5-0.8c1.9-1.4,2.4-4,1-6l-14.8-20.9l0.8-0.3c11.5-4.6,18.9-15.6,18.9-27.9c0-16.6-13.5-30.1-30.1-30.1h-23.2				c-2.4,0-4.3,1.9-4.3,4.3v77.5C478.7,126.6,480.6,128.5,483,128.5z M487.3,51h19c11.9,0,21.5,9.7,21.5,21.5S518.1,94,506.3,94h-19				V51z"/>
+			<path class="stlogo" d="M62.6,97.2c0.1,0.2,0.3,0.4,0.5,0.6l0.5,0.5l-0.4,0.5c-2.1,2.5-4.9,5.9-6.1,7.9c-0.3,0.4-0.5,0.9-0.7,1.3				c-0.3,0.5-0.5,1-0.7,1.4c-0.7,1.7-1,3.4-1,5.2c0,7.4,5.8,13.4,13.1,13.8c0.1,0,0.7,0,0.7,0h0.7c7.4-0.4,13.1-6.5,13.1-13.8				c0-1.8-0.3-3.5-1-5.2c-0.2-0.5-0.4-0.9-0.7-1.4c-0.2-0.5-0.5-0.9-0.7-1.3c-1.3-2.2-4.4-6-6.2-8.1l-0.4-0.5l0.4-0.5				c0.2-0.2,0.3-0.4,0.4-0.5l32.3-48.2c0.6-0.9,0.9-2.1,0.6-3.2c-0.2-1.1-0.9-2.1-1.8-2.7c-0.7-0.5-1.5-0.7-2.4-0.7				c-1.4,0-2.8,0.7-3.6,1.9l-31,46.2L37.4,44.2c-0.8-1.2-2.1-1.9-3.6-1.9c-0.8,0-1.7,0.2-2.4,0.7c-0.9,0.6-1.6,1.6-1.8,2.7				s0,2.3,0.6,3.2L62.6,97.2z M63.9,112c0.2-0.3,0.3-0.6,0.5-0.9c0.7-1.1,2.3-3.2,3.5-4.7l0.6-0.7l0.6,0.7c1.2,1.5,2.9,3.6,3.6,4.7				c0.2,0.3,0.3,0.6,0.5,0.9c0.1,0.2,0.2,0.4,0.3,0.6c0.3,0.6,0.4,1.3,0.4,2c0,2.8-2.2,5.1-5,5.3h-0.3h-0.3c-2.8-0.2-4.9-2.5-4.9-5.3				c0-0.7,0.1-1.4,0.4-2.1C63.7,112.5,63.8,112.3,63.9,112z"/>
+			<path class="stlogo" d="M236.5,128.5H277c2.4,0,4.3-1.9,4.3-4.3s-1.9-4.3-4.3-4.3h-36.2V89.2H265c2.4,0,4.3-1.9,4.3-4.3				s-1.9-4.3-4.3-4.3h-24.2V50.9H277c2.4,0,4.3-1.9,4.3-4.3s-1.9-4.3-4.3-4.3h-40.5c-2.4,0-4.3,1.9-4.3,4.3v77.5				C232.3,126.6,234.2,128.5,236.5,128.5z"/>
+			<path class="stlogo" d="M365.1,128.2c0.5,0.2,1.1,0.3,1.6,0.3c1.8,0,3.3-1,4-2.7l9.4-23.2h36.2l9.4,23.2c0.7,1.6,2.2,2.7,4,2.7				c0.5,0,1.1-0.1,1.6-0.3c1.1-0.4,1.9-1.2,2.3-2.3s0.5-2.2,0-3.3L402.1,45c-0.7-1.6-2.2-2.7-4-2.7s-3.3,1.1-4,2.7l-31.5,77.6				c-0.4,1.1-0.4,2.2,0,3.3C363.3,126.9,364.1,127.8,365.1,128.2z M398.3,58l14.6,36h-29.3L398.3,58z"/>
+			<path class="stlogo" d="M299.4,98.4c2.3,2.3,5.2,3.8,8.4,4.2h0.1c0.4,0.1,1,0.1,4.2,0.1c1.1,0,2.4,0,3.6,0h0.7v21.5				c0,2.4,1.9,4.3,4.3,4.3s4.3-1.9,4.3-4.3v-21.6h5.5c16.6,0,30.1-13.5,30.1-30.1S347,42.4,330.4,42.4h-28c-2.4,0-4.3,1.9-4.3,4.3				s1.9,4.3,4.3,4.3h28c11.9,0,21.5,9.7,21.5,21.5S342.2,94,330.4,94h-5.5v-0.7c0-4.4,0-6.8-0.1-7.5v-0.1c-0.5-3.2-1.9-6.1-4.2-8.4				c-2.3-2.3-5.2-3.8-8.5-4.2c-0.7-0.1-1.4-0.1-2.1-0.1s-1.4,0.1-2.1,0.1c-3.2,0.5-6.2,1.9-8.5,4.2s-3.8,5.2-4.2,8.5				c-0.2,1.4-0.2,2.8,0,4.2C295.6,93.1,297.1,96.1,299.4,98.4z M303.6,86.9c0.2-1.4,0.8-2.6,1.8-3.6s2.2-1.6,3.6-1.8				c0.3,0,0.6-0.1,0.9-0.1s0.6,0,0.9,0.1c1.4,0.2,2.6,0.8,3.6,1.8s1.6,2.2,1.8,3.6c0,0.9,0,4.5,0,6.6v0.7h-0.7c-1.2,0-2.5,0-3.6,0				c-2,0-2.8,0-3.1,0c-1.3-0.2-2.5-0.8-3.5-1.8s-1.6-2.2-1.8-3.6C303.5,88.1,303.5,87.5,303.6,86.9z"/>
+		</g>
+		<path class="stlogo" d="M0,0v170.8h566V0H0z M557.3,162H8.8V8.8h548.5V162z"/>
+	</g>
+	</svg>
+	
+		</a>				</div>
+						<div class="top-bar-right">
+				<ul id="menu-the-menu-right" class="dropdown menu desktop-menu" data-dropdown-menu><li id="menu-item-63375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-first menu-item-63375"><a href="https://vinepair.com/business-of-drinks/">VP Pro</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-108754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108754"><a href="https://vinepair.com/next-wave-awards-2021/">2021 Next Wave Awards</a></li>
+	<li id="menu-item-82821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82821"><a href="https://vinepair.com/black-owned-db/">Black-Owned Businesses</a></li>
+	<li id="menu-item-86836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86836"><a href="https://vinepair.com/vp-pro-qa/">VP Pro Q&#038;A</a></li>
+</ul>
+</li>
+<li id="menu-item-63368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-63368"><a>Podcasts</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-108370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108370"><a href="https://vinepair.com/cocktail-college/">Cocktail College</a></li>
+	<li id="menu-item-112807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112807"><a href="https://vinepair.com/tag/going-out-with-jake-cornell/">Going Out With Jake Cornell</a></li>
+	<li id="menu-item-108369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108369"><a href="https://vinepair.com/the-vinepair-podcast/">The VinePair Podcast</a></li>
+	<li id="menu-item-108371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108371"><a href="https://vinepair.com/wine-101-podcast/">Wine 101</a></li>
+</ul>
+</li>
+<li id="menu-item-63374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63374"><a href="https://vinepair.com/cocktail-recipe/">Recipes</a></li>
+<li id="menu-item-63376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-63376"><a>Learn</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-63378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63378"><a href="https://vinepair.com/beer-101/">Beer 101</a></li>
+	<li id="menu-item-63379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63379"><a href="https://vinepair.com/spirits-101/">Spirits 101</a></li>
+	<li id="menu-item-63377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63377"><a href="https://vinepair.com/wine-101/">Wine 101</a></li>
+	<li id="menu-item-83647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83647"><a href="https://vinepair.com/explore/category-type/bourbon/">Bourbon</a></li>
+	<li id="menu-item-83652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83652"><a href="https://vinepair.com/explore/category-type/champagne/">Champagne</a></li>
+	<li id="menu-item-83650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83650"><a href="https://vinepair.com/explore/category-type/gin/">Gin</a></li>
+	<li id="menu-item-83654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83654"><a href="https://vinepair.com/explore/category-type/ipa-india-pale-ale/">IPA</a></li>
+	<li id="menu-item-83653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83653"><a href="https://vinepair.com/explore/category-type/rose/">Rosé</a></li>
+	<li id="menu-item-83651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83651"><a href="https://vinepair.com/explore/category-type/rum/">Rum</a></li>
+	<li id="menu-item-83648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83648"><a href="https://vinepair.com/explore/category-type/tequila/">Tequila</a></li>
+	<li id="menu-item-83649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83649"><a href="https://vinepair.com/explore/category-type/vodka/">Vodka</a></li>
+	<li id="menu-item-83646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83646"><a href="https://vinepair.com/explore/category-type/whiskey/">Whiskey</a></li>
+</ul>
+</li>
+<li id="menu-item-63383" class="menu-search-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-last menu-item-63383"><a href="#search" class="searchButton"><svg style="height: 22px; width: 22px; margin-top: -8px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewbox="0 0 110.48 110.48" xml:space="preserve"><style type="text/css">	.search-svg{fill:#F04E52;stroke:#F04E52;stroke-width:3;stroke-miterlimit:10;}</style><path class="search-svg" d="M104.12,100.61L74.83,71.32c6.39-7.23,9.92-16.4,9.92-26.14c0-10.57-4.12-20.51-11.59-27.98	C57.74,1.77,32.63,1.77,17.2,17.2s-15.43,40.53,0,55.96c7.47,7.47,17.41,11.59,27.98,11.59c9.74,0,18.91-3.53,26.14-9.92	l29.29,29.29c0.48,0.48,1.12,0.73,1.76,0.73s1.27-0.24,1.76-0.73C105.09,103.15,105.09,101.58,104.12,100.61z M20.71,69.65	c-6.53-6.53-10.13-15.22-10.13-24.47s3.6-17.93,10.13-24.47s15.23-10.13,24.47-10.13s17.93,3.6,24.47,10.13s10.14,15.23,10.14,24.47	s-3.6,17.93-10.14,24.47S54.43,79.79,45.18,79.79S27.25,76.19,20.71,69.65z"/></svg>
+</a></li>
+</ul>									
+<nav class="mobile-menu vertical menu" id="mobile-menu" role="navigation">
+	<ul id="menu-mobile-menu" class="vertical menu" data-accordion-menu data-submenu-toggle="true"><li id="menu-item-100075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first menu-item-100075"><a href="https://vinepair.com/join-newsletters/">Newsletters</a></li>
+<li id="menu-item-63385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63385"><a href="https://store.vinepair.com">Shop</a></li>
+<li id="menu-item-66429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-66429"><a href="https://vinepair.com/business-of-drinks/">VP Pro</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-108755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108755"><a href="https://vinepair.com/next-wave-awards-2021/">2021 Next Wave Awards</a></li>
+	<li id="menu-item-93037" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93037"><a href="https://vinepair.com/business-of-drinks/">Read The Latest</a></li>
+	<li id="menu-item-86839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86839"><a href="https://vinepair.com/vp-pro-qa/">VP Pro Q&#038;A</a></li>
+</ul>
+</li>
+<li id="menu-item-63386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-63386"><a>Articles</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-63387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63387"><a href="https://vinepair.com/explore/category/beer/?post_type=post">Beer</a></li>
+	<li id="menu-item-64874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64874"><a href="https://vinepair.com/explore/category/cheese/?post_type=post">Cheese</a></li>
+	<li id="menu-item-64867" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64867"><a href="https://vinepair.com/explore/category/coffee/?post_type=post">Coffee</a></li>
+	<li id="menu-item-63389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63389"><a href="https://vinepair.com/explore/category/spirit/?post_type=post">Spirits</a></li>
+	<li id="menu-item-63388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63388"><a href="https://vinepair.com/explore/category/wine/?post_type=post">Wine</a></li>
+	<li id="menu-item-63390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63390"><a href="https://vinepair.com/booze-news/">Booze News</a></li>
+	<li id="menu-item-63391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63391"><a href="https://vinepair.com/picks/">Picks</a></li>
+</ul>
+</li>
+<li id="menu-item-63400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-63400"><a href="https://vinepair.com/columns/">Columns</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-76794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76794"><a href="https://vinepair.com/ask-adam/">Ask Adam</a></li>
+	<li id="menu-item-70092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70092"><a href="https://vinepair.com/brew-it-yourself/">BIY – Brew It Yourself</a></li>
+	<li id="menu-item-63406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63406"><a href="https://vinepair.com/buy-this-booze/">Buy This Booze</a></li>
+	<li id="menu-item-63404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63404"><a href="https://vinepair.com/free-pour/">Free Pour</a></li>
+	<li id="menu-item-63407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63407"><a href="https://vinepair.com/good-wine-reviews/">Good Wine You Can Actually Find</a></li>
+	<li id="menu-item-68210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68210"><a href="https://vinepair.com/lucky-sevens/">Lucky Sevens</a></li>
+	<li id="menu-item-63405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63405"><a href="https://vinepair.com/need-to-know/">Need To Know</a></li>
+	<li id="menu-item-78890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-78890"><a href="https://vinepair.com/tag/podcast/">Podcast</a></li>
+	<li id="menu-item-64868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64868"><a href="https://vinepair.com/get-sauced/">Sauced</a></li>
+	<li id="menu-item-76883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76883"><a href="https://vinepair.com/we-asked/">We Asked</a></li>
+</ul>
+</li>
+<li id="menu-item-63395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-63395"><a href="#">Reviews</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-110811" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-110811"><a href="https://vinepair.com/articles/best-spirits-2021/">50 Best Spirits</a></li>
+	<li id="menu-item-110010" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-110010"><a href="https://vinepair.com/articles/best-wines-2021/">50 Best Wines</a></li>
+	<li id="menu-item-79222" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-79222"><a href="https://vinepair.com/buy-this-booze/25-best-rose-wines-2020/">25 Best Rosés</a></li>
+	<li id="menu-item-63394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63394"><a href="https://vinepair.com/review/category/beer/">Beer Reviews</a></li>
+	<li id="menu-item-79502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79502"><a href="https://vinepair.com/review/category/hard-seltzer/">Hard Seltzer Reviews</a></li>
+	<li id="menu-item-78891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-78891"><a href="https://vinepair.com/review/category/spirits/">Spirits Reviews</a></li>
+	<li id="menu-item-63393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63393"><a href="https://vinepair.com/review/category/wine/">Wine Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-66791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-66791"><a>Podcasts</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-108373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108373"><a href="https://vinepair.com/cocktail-college/">Cocktail College</a></li>
+	<li id="menu-item-112806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112806"><a href="https://vinepair.com/tag/going-out-with-jake-cornell/">Going Out With Jake Cornell</a></li>
+	<li id="menu-item-108372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108372"><a href="https://vinepair.com/the-vinepair-podcast/">The VinePair Podcast</a></li>
+	<li id="menu-item-108374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108374"><a href="https://vinepair.com/wine-101-podcast/">Wine 101</a></li>
+</ul>
+</li>
+<li id="menu-item-63396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-63396"><a>Learn</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-63398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63398"><a href="https://vinepair.com/beer-101/">Beer 101</a></li>
+	<li id="menu-item-63399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63399"><a href="https://vinepair.com/spirits-101/">Spirits 101</a></li>
+	<li id="menu-item-63397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63397"><a href="https://vinepair.com/wine-101/">Wine 101</a></li>
+	<li id="menu-item-83656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83656"><a href="https://vinepair.com/explore/category-type/bourbon/">Bourbon</a></li>
+	<li id="menu-item-83662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83662"><a href="https://vinepair.com/explore/category-type/champagne/">Champagne</a></li>
+	<li id="menu-item-83657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83657"><a href="https://vinepair.com/explore/category-type/gin/">Gin</a></li>
+	<li id="menu-item-83655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83655"><a href="https://vinepair.com/explore/category-type/ipa-india-pale-ale/">IPA</a></li>
+	<li id="menu-item-83663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83663"><a href="https://vinepair.com/explore/category-type/rose/">Rosé</a></li>
+	<li id="menu-item-83658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83658"><a href="https://vinepair.com/explore/category-type/rum/">Rum</a></li>
+	<li id="menu-item-83664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83664"><a href="https://vinepair.com/explore/category-type/tequila/">Tequila</a></li>
+	<li id="menu-item-83659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83659"><a href="https://vinepair.com/explore/category-type/vodka/">Vodka</a></li>
+	<li id="menu-item-83661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83661"><a href="https://vinepair.com/explore/category-type/Whiskey/">Whiskey</a></li>
+</ul>
+</li>
+<li id="menu-item-63392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-last menu-item-63392"><a href="https://vinepair.com/cocktail-recipe/">Recipes</a></li>
+</ul></nav>
+							</div>
+		</nav>
+
+	</header>
+
+	
+						<script>
+							window.onload = function() {
+								adload();
+							}
+							function inContentAds (divhandle) {
+		if(divhandle == 'article2') {
+			var contentParagraphs = $('#article-container > div:nth-child(2) > main.main-content').children().children().find('p');
+		} else {
+			var contentParagraphs = document.querySelectorAll( 'main.main-content p' );
+		}
+
+		var gptAdSlots = [];
+	    var udi = 0;
+    
+	    if ( 0 < contentParagraphs.length ) {
+			if (isMobile) {
+				var skipParagraphs = 4;
+				if (contentParagraphs.length > 40) {
+					var skipParagraphs = 5;
+				}
+			} else {
+				var skipParagraphs = 6;
+				if (contentParagraphs.length > 40) {
+					var skipParagraphs = 7;
+				}
+			}
+			var aDdiv_id = isMobile ? 'div-gpt-ad-incontent-mobile-' : 'div-gpt-ad-incontent-';
+			if(divhandle == 'article2')
+				aDdiv_id = isMobile ? 'div-gpt-ad-incontent-mobile1-' : 'div-gpt-ad-incontent1-';
+	        for ( var i = 1, len = contentParagraphs.length; i < len; i++ ) {
+	            if ( i && ( i % skipParagraphs === 0 )) {
+	                var medrectAd = aDdiv_id + udi;
+					
+	                if (isMobile) {
+	                    googletag.cmd.push( function() {
+	                            gptAdSlots[udi] = googletag
+									.defineSlot( '/82631139/MOB_Rectangle', [300, 250], medrectAd )
+									.setTargeting('is_home', 'no').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes')
+									.addService( googletag.pubads() );
+	                    });
+	                } else {
+	                    googletag.cmd.push( function() {
+	                            gptAdSlots[udi] = googletag
+	                                .defineSlot( '/82631139/DSK_In-Content_1', [300, 250], medrectAd )
+									.setTargeting('is_home', 'no').setTargeting('post_id', '90218').setTargeting('post_tags', ["chile","sustainability","wines-of-chile"]).setTargeting('post_cats', "post").setTargeting('post_types', []).setTargeting('post_wbs', ["wine"]).setTargeting('env', 'prod').setTargeting('is_sponsored', 'yes')
+									.addService( googletag.pubads() );
+						});
+					}
+					googletag.pubads().enableSingleRequest();
+					googletag.pubads().disableInitialLoad();
+					googletag.enableServices();
+
+					
+	                var div = document.createElement("div");
+	                div.id = medrectAd;
+					div.classList.add("medrectAd");
+					div.classList.add("adunit-lazy");
+	                // div.style.margin = "25px auto 0 auto";
+	                div.style.textAlign = "center";
+					div.style.background = "#f7f7f7";
+					div.style.clear = "both";
+					div.dataset.pbcode = isMobile ? "MOB_Rectangle" : "DSK_In-Content_1";
+					
+					var adblock = document.createElement("p");
+					adblock.appendChild(div);
+
+					contentParagraphs[i].parentNode.insertBefore(adblock, contentParagraphs[i].nextSibling);
+	                udi++;
+				}
+			}
+	     }
+	}
+ var lazyload = function(){
+  var lazyUnits = document.querySelectorAll("div.adunit-lazy");
+  var lazyUnitsLength = lazyUnits.length;
+
+  var gptSlots;
+  if (window.googletag && googletag.apiReady) {
+    gptSlots = googletag.pubads().getSlots();
+  }
+
+  for (var i = 0; i < lazyUnitsLength; i++) {
+    var block = lazyUnits[i];
+    var slot = gptSlots.find(
+      item => item.getSlotElementId() === block.id
+    );
+
+    if (slot !== null && slot !== undefined && isInViewport(block, -50)) {
+      block.classList.remove('adunit-lazy');
+      googletag.cmd.push(function() {
+        googletag.pubads().refresh([slot]);
+      });
+    }
+  }
+};
+var isInViewport = function(element, threshold, mode) {
+	threshold = threshold || 0;
+    mode = mode || 'visible';
+    
+    var rect = element.getBoundingClientRect();
+    var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+    var above = rect.bottom - threshold < 0;
+    var below = rect.top - viewHeight + threshold >= 0;
+
+    return mode === 'above' ? above : (mode === 'below' ? below : !above && !below);
+};
+
+function adload() {
+  var adUnits = document.querySelectorAll("div.adv:not(.adunit-lazy)");
+  var adUnitsLength = adUnits.length;
+
+  var gptSlots;
+  if (window.googletag && googletag.apiReady) {
+    gptSlots = googletag.pubads().getSlots();
+  }
+
+  for (var i = 0; i < adUnitsLength; i++) {
+    var block = adUnits[i];
+    var slot = gptSlots.find(
+      item => item.getSlotElementId() === block.id
+    );
+
+    if (slot !== null && slot !== undefined) {
+      googletag.cmd.push(function() {
+        googletag.pubads().refresh([slot]);
+      });
+    }
+  }
+
+  window.onscroll = lazyload; //function to call lazy loading slots on scroll
+}
+jQuery(window).scroll(function(event)
+{
+	if(jQuery('#article-container h1').length == 2) {
+		inContentAds('article2');
+		$( this ).off( event );
+	}
+});
+						</script>
+
+<div class="main-container">
+	<div class="main-grid" id="article-container">
+		
+				
+		<header class="article-header">
+		
+<div class="grid-x">
+	<div class="cell header-ad small-12">
+	
+		    <!------ DSK_Leaderboard_1 ---->
+		   			<div id='DSK_Leaderboard_1' class="adv">
+		   				<script type='text/javascript' class='optanon-category-C0004'>
+		   	googletag.cmd.push(function() {
+		   				  googletag.display('DSK_Leaderboard_1');
+		   				});
+		   				</script>
+		   			</div>
+			
+			
+	</div>
+	
+	<div class="cell header-art small-12">
+		<p class="meta-article-label"><a href="">Partner</a></p> 
+						<picture>
+						        <source media="(max-width:799px)" srcset="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_header-500x281.jpg">
+						        <source media="(min-width: 800px)" srcset="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_header.jpg">
+						        <img src="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_header-500x281.jpg" alt="How Chile Became One of the Most Sustainable Winemaking Countries in the World" data-pin-url="https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/" title="Chile is making it increasingly easy to find great wines that are also environmentally and socially responsible, and certified sustainable." width="800" height="450">
+						</picture>
+							</div>
+	
+		
+	<div class="cell header-hed small-12" >
+		<div>
+			
+			
+			<h1 class="entry-title">How Chile Became One of the Most Sustainable Winemaking Countries in the World</h1>		</div>
+	</div>
+	
+	<div class="cell header-meta small-12">
+		<p class="meta-text"><span class="byline author"><em>words:</em> <a href="https://vinepair.com/author/evanr/" rel="author" class="fn alwaysupper">Evan Rail</a></span></p><p class="meta-text"><span class="byline artist"><span class="alwaysupper"></span></span></p>
+
+<div class="social-share-block">
+	<a href="#" onclick="ga('send', 'social', 'Facebook', 'share', 'https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/');	window.open('http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvinepair.com%2Farticles%2Fhow-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dsite', 'facebook_share', 'height=320, width=559, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no'); return false;">
+	<svg width="14px" height="28px" viewbox="0 0 14 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="article-social-share">
+	    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	        <g id="social-svg-block-f" transform="translate(-632.000000, -1320.000000)" fill="#F04D51" fill-rule="nonzero">
+	            <g id="facebook-1" transform="translate(632.000000, 1320.000000)">
+	                <path d="M3.5,9.33333333 L0,9.33333333 L0,14 L3.5,14 L3.5,28 L9.33333333,28 L9.33333333,14 L13.5823333,14 L14,9.33333333 L9.33333333,9.33333333 L9.33333333,7.3885 C9.33333333,6.27433333 9.55733333,5.83333333 10.6341667,5.83333333 L14,5.83333333 L14,0 L9.55733333,0 C5.362,0 3.5,1.84683333 3.5,5.38416667 L3.5,9.33333333 Z" id="Shape"></path>
+	            </g>
+	        </g>
+	    </g>
+	</svg>
+	</a>
+	
+	<a href="#" onclick="ga('send', 'social', 'Twitter', 'tweet', 'https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/');	window.open('https://twitter.com/intent/tweet?url=https%3A%2F%2Fvinepair.com%2Farticles%2Fhow-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dsite&via=VinePair&related=vinepair&text=How+Chile+Became+One+of+the+Most+Sustainable+Winemaking+Countries+in+the+World', 'twitterwindow', 'height=450, width=550, toolbar=0, location=0, menubar=0, directories=0, scrollbars=0'); return false;">
+	<svg width="34px" height="28px" viewbox="0 0 34 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="article-social-share">
+	    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	        <g id="social-svg-block-t" transform="translate(-670.000000, -1320.000000)" fill="#F04D51" fill-rule="nonzero">
+	            <g id="Social-Icons" transform="translate(632.000000, 1320.000000)">
+	                <g id="twitter-1" transform="translate(38.000000, 0.000000)">
+	                    <path d="M33.6711244,3.54517327 C32.4323076,4.08866483 31.1008952,4.45468975 29.7035436,4.61967826 C31.1303574,3.7753253 32.226072,2.43739327 32.7409596,0.842966502 C31.4067413,1.62492885 29.9280177,2.19337665 28.3538927,2.49978389 C27.0954344,1.17294352 25.2982381,0.3438416 23.3116418,0.3438416 C18.8516208,0.3438416 15.574298,4.45607621 16.5816258,8.72498059 C10.842102,8.44075668 5.75215041,5.72329888 2.34435203,1.59304031 C0.534529099,4.66127201 1.40576944,8.6750681 4.48106547,10.7076156 C3.35027688,10.6715677 2.2840246,10.3651605 1.35385979,9.85355745 C1.27809976,13.0160683 3.57194511,15.9747698 6.89416272,16.6333374 C5.921909,16.8939915 4.85705969,16.9549956 3.77397186,16.7497999 C4.65222702,19.4617118 7.20281469,21.4346416 10.227604,21.4901 C7.32346955,23.7403214 3.6645407,24.7455035 -1.77635684e-15,24.3184744 C3.0570575,26.2553563 6.68933004,27.3853197 10.5895686,27.3853197 C23.4154611,27.3853197 30.6617676,16.6804769 30.224043,7.07925487 C31.5736939,6.11566651 32.7451685,4.91360737 33.6711244,3.54517327 Z" id="Shape"></path>
+	                </g>
+	            </g>
+	        </g>
+	    </g>
+	</svg>
+	</a>
+   	
+	<a href="#" onclick="ga('send', 'social', 'Pinterest', 'pin', 'https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/'); 	window.open('http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fvinepair.com%2Farticles%2Fhow-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world%2F%3Futm_source%3Dpinterest%26utm_medium%3Dsocial%26utm_campaign%3Dsite&media=https%3A%2F%2Fvinepair.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwoc_sustainablewinemaking_card.jpg&description=Chile+is+making+it+increasingly+easy+to+find+great+wines+that+are+also+environmentally+and+socially+responsible%2C+and+certified+sustainable.', 'pinterest_share', 'height=320, width=640, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no'); return false;">
+	<svg width="22px" height="28px" viewbox="0 0 22 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="article-social-share">
+	    <title>p-pinterest</title>
+	    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	        <g id="social-svg-block-p" transform="translate(-727.000000, -1320.000000)" fill="#F04D51" fill-rule="nonzero">
+	            <g id="Social-Icons" transform="translate(632.000000, 1320.000000)">
+	                <g id="p-pinterest" transform="translate(95.000000, 0.000000)">
+	                    <path d="M0,9.94850316 C0,8.74868369 0.211181744,7.61829821 0.633545231,6.55734673 C1.05590872,5.49639524 1.63877033,4.5715344 2.38213007,3.78276418 C3.12548981,2.99399397 3.98147981,2.31076344 4.95010007,1.73307258 C5.91872033,1.15538172 6.96055027,0.722113574 8.07558988,0.433268145 C9.19062948,0.144422715 10.3281951,0 11.4882869,0 C13.267845,0 14.9235099,0.369388867 16.4552815,1.1081666 C17.987053,1.84694433 19.2316175,2.92178262 20.1889747,4.33268145 C21.1463319,5.74358027 21.6250105,7.33778486 21.6250105,9.11529519 C21.6250105,10.1818014 21.5180118,11.2260887 21.3040143,12.2481572 C21.0900168,13.2702256 20.752126,14.253411 20.2903419,15.1977134 C19.8285578,16.1420157 19.2654065,16.9724464 18.600888,17.6890052 C17.9363694,18.4055641 17.1198,18.9777002 16.1511798,19.4054136 C15.1825595,19.8331271 14.1182035,20.0469838 12.9581118,20.0469838 C12.192226,20.0469838 11.4319717,19.8692327 10.677349,19.5137307 C9.92272619,19.1582286 9.38210093,18.6694133 9.05547317,18.0472846 C8.9428429,18.4805528 8.78516053,19.1054588 8.58242606,19.9220026 C8.37969159,20.7385464 8.24735103,21.2662448 8.18540438,21.5050977 C8.12345774,21.7439507 8.00801172,22.1383358 7.83906632,22.688253 C7.67012093,23.2381703 7.52370159,23.6325554 7.3998083,23.8714083 C7.27591501,24.1102613 7.09570659,24.4574313 6.85918303,24.9129183 C6.62265948,25.3684053 6.36360987,25.7988961 6.08203422,26.2043907 C5.80045856,26.6098852 5.45130474,27.0903685 5.03457277,27.6458405 L4.79804921,27.7291613 L4.64599836,27.5625197 C4.47705296,25.8183376 4.39258027,24.7740503 4.39258027,24.4296577 C4.39258027,23.4075892 4.5136578,22.2605396 4.75581287,20.9885088 C4.99796793,19.7164779 5.37246356,18.119496 5.87929974,16.1975629 C6.38613593,14.2756299 6.67897461,13.1480218 6.7578158,12.8147386 C6.39739895,12.092625 6.21719053,11.1538774 6.21719053,9.99849564 C6.21719053,9.07641216 6.51002922,8.20987587 7.09570659,7.39888678 C7.68138395,6.58789768 8.42474369,6.18240314 9.3257858,6.18240314 C10.0128304,6.18240314 10.5478242,6.40736929 10.930767,6.8573016 C11.3137099,7.3072339 11.5051814,7.87659268 11.5051814,8.56537793 C11.5051814,9.29860095 11.2573948,10.3595524 10.7618217,11.7482324 C10.2662485,13.1369123 10.0184619,14.1756449 10.0184619,14.8644302 C10.0184619,15.5643249 10.27188,16.1447931 10.7787162,16.6058348 C11.2855524,17.0668766 11.8993873,17.2973975 12.620221,17.2973975 C13.2396874,17.2973975 13.8141018,17.1585295 14.343464,16.8807935 C14.8728263,16.6030575 15.3149,16.2253365 15.6696854,15.7476306 C16.0244707,15.2699247 16.3398354,14.7422264 16.6157796,14.1645355 C16.8917237,13.5868446 17.1057212,12.9730481 17.2577721,12.3231459 C17.4098229,11.6732437 17.5224532,11.0566698 17.5956629,10.4734242 C17.6688725,9.89017861 17.7054774,9.33748399 17.7054774,8.81534033 C17.7054774,6.89340727 17.0888267,5.39641029 15.8555253,4.32434937 C14.6222239,3.25228844 13.0144269,2.71625798 11.0321343,2.71625798 C8.77952902,2.71625798 6.89860362,3.4355942 5.3893581,4.87426663 C3.88011257,6.31293905 3.12548981,8.13766451 3.12548981,10.348443 C3.12548981,10.8372583 3.19588372,11.3094095 3.33667155,11.7648965 C3.47745938,12.2203836 3.62951023,12.5814404 3.79282412,12.8480669 C3.956138,13.1146935 4.10818885,13.3674332 4.24897668,13.6062862 C4.38976451,13.8451391 4.46015843,14.0145581 4.46015843,14.114543 C4.46015843,14.4256073 4.37568573,14.8311019 4.20674033,15.3310267 C4.03779494,15.8309514 3.82942895,16.0809138 3.58164237,16.0809138 C3.55911632,16.0809138 3.4633806,16.0642497 3.2944352,16.0309213 C2.72002086,15.8642798 2.21036892,15.5532154 1.76547938,15.0977284 C1.32058984,14.6422414 0.977067534,14.1173204 0.734912468,13.5229654 C0.492757402,12.9286103 0.309733224,12.3287006 0.185839934,11.7232361 C0.0619466448,11.1177717 0,10.526194 0,9.94850316 Z" id="Shape"></path>
+	                </g>
+	            </g>
+	        </g>
+	    </g>
+	</svg>
+	</a>
+	
+	<a onclick="ga('send', 'event', 'share', 'email', 'How+Chile+Became+One+of+the+Most+Sustainable+Winemaking+Countries+in+the+World');" href="/cdn-cgi/l/email-protection#81bef2f4e3ebe4e2f5bcc9eef6a4b3b1c2e9e8ede4a4b3b1c3e4e2e0ece4a4b3b1ceefe4a4b3b1eee7a4b3b1f5e9e4a4b3b1cceef2f5a4b3b1d2f4f2f5e0e8efe0e3ede4a4b3b1d6e8efe4ece0eae8efe6a4b3b1c2eef4eff5f3e8e4f2a4b3b1e8efa4b3b1f5e9e4a4b3b1d6eef3ede5a7e3eee5f8bcc9e4f8ada4b3b1c8a4b3b1f2e0f6a4b3b1f5e9e8f2a4b3b1eeefa4b3b1d7e8efe4d1e0e8f3a4b3b1e0efe5a4b3b1f5e9eef4e6e9f5a4b3b1eee7a4b3b1f8eef4bba4b3b1c9eef6a4b3b1c2e9e8ede4a4b3b1c3e4e2e0ece4a4b3b1ceefe4a4b3b1eee7a4b3b1f5e9e4a4b3b1cceef2f5a4b3b1d2f4f2f5e0e8efe0e3ede4a4b3b1d6e8efe4ece0eae8efe6a4b3b1c2eef4eff5f3e8e4f2a4b3b1e8efa4b3b1f5e9e4a4b3b1d6eef3ede5bba4b3b1e9f5f5f1f2bbaeaef7e8efe4f1e0e8f3afe2eeecaee0f3f5e8e2ede4f2aee9eef6ace2e9e8ede4ace3e4e2e0ece4aceeefe4aceee7acf5e9e4aceceef2f5acf2f4f2f5e0e8efe0e3ede4acf6e8efe4ece0eae8efe6ace2eef4eff5f3e8e4f2ace8efacf5e9e4acf6eef3ede5aea4b1c5a4b1c0a4b1c5a4b1c0c4efebeef8a0" alt="Email This Post To A Friend" rel="nofollow" target="_blank">
+	<svg width="37px" height="28px" viewbox="0 0 37 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="article-social-share">
+	    <title>Shape</title>
+	    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	        <g id="social-svg-block-e" transform="translate(-772.000000, -1320.000000)" fill="#F04D51" fill-rule="nonzero">
+	            <g id="Social-Icons" transform="translate(632.000000, 1320.000000)">
+	                <g id="email-3" transform="translate(140.000000, 0.000000)">
+	                    <path d="M18.4362797,14.9629635 L0.0230453496,0 L36.8495141,0 L18.4362797,14.9629635 Z M18.4362797,18.9282336 L0,3.94678395 L0,27.7291612 L36.8725594,27.7291612 L36.8725594,3.94678395 L18.4362797,18.9282336 Z" id="Shape"></path>
+	                </g>
+	            </g>
+	        </g>
+	    </g>
+	</svg>
+	</a>
+	
+	</div>
+
+<hr>		
+		
+		
+	</div>
+</div>
+
+		</header>
+		<main class="main-content">
+							<style type="text/css">@media print,screen and (max-width:50em) { .home-cta { margin-bottom: 25px;}}</style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json"> {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "url": "https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/",
+  "mainEntityOfPage": "https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/",
+  "isAccessibleForFree": "TRUE",
+  "headline": "How Chile Became One of the Most Sustainable Winemaking Countries in the World",
+  "description": "Chile is making it increasingly easy to find great wines that are also environmentally and socially responsible, and certified sustainable.",
+  
+    "articleSection": "Partner",
+    "image":{
+      "@type": "ImageObject",
+      "url":"https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_header.jpg"
+    },
+  "datePublished": "12-07-2020",
+    "dateModified": "05-06-2021",
+  "author": {
+    "@type": "Person",
+    "@id": "https://vinepair.com/author/evanr/#authorbio"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://vinepair.com/#vinepairorg"
+  }
+}
+</script>
+
+<article id="post-90218" class="post-90218 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-chile tag-sustainability tag-wines-of-chile wbs_master_taxonomy_node_cat-wine">
+	
+	<div class="entry entry-content">
+		
+			  <!-- Fix Me To Not Be Pulled From Old Theme  -->
+		<img src="//vinepair.com/wp-content/themes/vpcontent/images/blank.gif" style="width: 1px; height: 1px; max-width: 1px; max-height: 1px; margin: 0; padding: 0; float: left;" class="inserted-pin-image" alt="" data-pin-media="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_card.jpg" data-pin-url="https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/?utm_source=pinterest&utm_medium=social&utm_campaign=site" />
+		<p>Considering the preponderance of wine available to us these days, it can be hard for the conscientious consumer to know where to look when it comes to sustainable, ethically produced wine.</p>
+<p>But one country is making it increasingly easy to find great wines that are also environmentally and socially responsible: Chile. The country has one of the world’s most extensive sustainability accreditation programs in the world with 76 wineries certified by the <a href="https://www.winesofchile.org/en/sustainability-and-innovation/sustainability/">Wines of Chile Sustainability Code</a>, representing over 80 percent of its total wine exports. These bottles are easy to identify on the shelf, thanks to a prominent seal highlighting that each is a “Certified Sustainable Wine of Chile.”</p>
+<p>“Our goal is to work with as many wineries as possible, whether they are members of Wines of Chile or not,” says Patricio Parra, Research &amp; Development Manager for Wines of Chile, a non-profit trade group that represents the country’s wine producers. “This code is open to any Chilean winery, regardless of its size,” he says, from small producers to very large cooperatives.</p><style type="text/css">#product-insert {background-color: #AFD46C !important;} #product-insert h4 {background-color: #EBEA70 !important; color: #901414 !important;} #product-insert h4 a:hover {box-shadow: inset 0 -2px 0 #901414;} </style><div id="product-insert"><div class="grid-x"><div class="cell small-12 medium-4"><a href="https://vinepair.com/chile-cab-steak-quiz/?recirc=true" target="_blank"><img src="https://vinepair.com/wp-content/uploads/2020/08/woc-quiz-insert.jpg"></a></div><div class="cell small-12 medium-8 align-self-bottom"><h4><a href="https://vinepair.com/chile-cab-steak-quiz/?recirc=true" target="_blank">Quiz: Find the Perfect Chilean Cab for Your Steak Night</a></h4></div></div></div><script>ga('send', 'event', 'woc_quiz_insert', 'from_WOC_spon');</script>
+<p>So, what does a bottle with a “Certified Sustainable” label tell you?</p>
+<p>First off, it indicates that the winery has been evaluated and certified by independent judges to verify that it meets the manifold standards of the country’s Sustainability Code. These standards are broken into three sections covering farming practices, work in the winery — including bottling and packaging — and social responsibility, in terms of workers and the surrounding communities.</p>
+<p>In the vineyard, the certification encompasses sustainable soil management, disease and weed control, judicious application of fertilizers and other chemicals, and responsible water use, among other tenets.</p>
+<h3><img class="aligncenter size-full wp-image-90219" src="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_1.jpg" alt="" width="800" height="450" srcset="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_1.jpg 800w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_1-500x281.jpg 500w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_1-300x169.jpg 300w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_1-768x432.jpg 768w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_1-640x360.jpg 640w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_1-558x314.jpg 558w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_1-375x211.jpg 375w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></h3>
+<p>“Today, without a doubt, the main sustainability issue [in Chile] is the lack of water and the efficient use of water, as a result of the prolonged drought we have been experiencing for many years,” Parra says. As a result, the country’s sustainability program has worked to improve irrigation practices, using meteorological information and in-the-field technology to increase water-use efficiency.</p>
+<p>That might sound like a big lift, but Chilean wineries have shown that even huge changes can be implemented very quickly. At <a href="https://www.santarita.com/en/">Viña Santa Rita</a>, a Sustainability Code-accredited winery in the Maipo Valley region, sustainability director Elena Carretero Gómez notes that 95 percent of the 140-year-old winery’s vineyards are now using irrigation technology to improve water efficiency, thanks to a project that started just six years ago. The program even extends to the design and planting of new vineyards, Carretero Gómez says, ensuring efficiency for the future by specially selecting both the rootstock and the clone to suit the land where they will grow.</p>
+<p>As for sustainable practices in the winery, the code examines a winery’s efforts when it comes to waste reduction and recycling, energy use, industrial water management, contamination prevention, and the reduction of emissions and waste. Even a winery’s air-conditioning system is taken into account, Parra notes, since that contributes to its overall environmental impact.</p>
+<p>“Each participating winery must have a plan to optimize the use of electricity and fuel, with clear and verifiable objectives, both for in the cellar and in the vineyards,” Parra says. “They are evaluated on the efficient management of heating, ventilation, and cooling, which is part of reducing energy consumption in all facilities.”</p>
+<p>At Viña Santa Rita, a drive for sustainability has led to far-reaching changes in every corner of the winery, from barrel rooms to offices.</p>
+<p>“In terms of energy, we have modified our lighting policy for the cellars, replacing the entire system in the warehouses and cellars with LED lights, photovoltaic, and motion sensors,” Carretero Gómez says. The winery’s new bottling lines use high-efficiency steam-generation systems that replace the need for fossil fuels, as well as a heat-recovery system.</p>
+<h3><img loading="lazy" class="aligncenter size-full wp-image-90220" src="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_2.jpg" alt="" width="800" height="450" srcset="https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_2.jpg 800w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_2-500x281.jpg 500w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_2-300x169.jpg 300w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_2-768x432.jpg 768w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_2-640x360.jpg 640w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_2-558x314.jpg 558w, https://vinepair.com/wp-content/uploads/2020/12/woc_sustainablewinemaking_internal_2-375x211.jpg 375w" sizes="(max-width: 639px) 98vw, (max-width: 1199px) 64vw, 770px" /></h3>
+<p>Beyond the importance of environmental sustainability, the Chilean Wine Sustainability Code also has protections for winery workers, including measures to prevent child labor and forced labor. Other social factors evaluated by the certification program include each winery’s code of ethics, its health plans and occupational safety plans, analysis of its working conditions, its communication with neighboring communities, its health and safety protections, and the conditions for organized labor and unions.</p>
+<p>In short: There’s a long list of requirements before a wine gets the Sustainable Wine of Chile seal.</p>
+<p>“The total number of requirements in the vineyard, winery, and social areas comes to 276,” Parra says. “It is a very complete code.”</p>
+<p>And yet it’s constantly evolving: Just recently, another 70 requirements have been added to certify the country’s wineries in terms of sustainable wine tourism, bringing the total number of requirements in the Sustainability Code up to 346. And this fall, the sustainability program launched a new carbon-footprint project to establish science-based carbon-reduction targets to help fight climate change. According to Parra, &#8220;An important group of Wines of Chile wineries, which represent about 52 percent of Chile&#8217;s bottled wine exports, have joined a sectorial carbon-footprint measurement initiative aligned with [the <a href="https://sciencebasedtargets.org/">Science-Based Targets Organization</a>] objectives.&#8221; The goal is that these wineries will make an impact using the Science-Based Targets technical and scientific information.</p>
+<p>Although it has already made great strides, Parra says the group still hopes to expand. “We want to integrate more companies and producers, especially small wine producers.”</p>
+<p>That’s good news for Chile — and for wine lovers—and, more importantly, good news for the planet. Having initially launched in 2010, Wine of Chile’s Sustainability Code is now just 10 years old. And while it’s easy to look at the dark side and complain that most countries don’t yet have a 346-point Sustainability Code to ensure responsible winemaking, there’s a bright side to it, too. After all, it’s only taken Chile a decade to get 80 percent of its wine exports certified for sustainability and social responsibility.</p>
+<p>Just imagine what it would be like if the rest of the world did, too.</p>
+<p><em>This article is sponsored by <a href="https://tastetheunexpected.org/">Wines of Chile</a>. Taste the Unexpected.</em></p>
+<div class="post-published-date"><p class="footer-byline">Published: December 7, 2020</p></div>	</div>
+
+	<footer>
+		
+		
+	</footer>
+</article>
+				
+					</main>
+		<aside class="sidebar">
+	
+			                         <!------DSK_Rectangle_1---->
+					<div id='DSK_Rectangle_1' class="adunit-lazy">
+						<script type='text/javascript' class='optanon-category-C0004'>
+			googletag.cmd.push(function() {
+						  googletag.display('DSK_Rectangle_1');
+						});
+						</script>
+					</div>
+			
+			<section id="block-2" class="widget widget_block widget_text">
+<p></p>
+</section>			
+						
+			<a href="https://store.vinepair.com/" target="_blank" title="The VinePair Store"><img src="https://vinepair.com/wp-content/themes/elmyr/src/assets/images/storead_300x250.png" alt="Shop VinePair" class="house-ad-right-rail" height="300" width="250" loading="lazy"></a>
+			
+			<div id="sidebar-recent-stories">
+				<h3>The Latest</h3>
+				<ul>
+				<li><a href="https://vinepair.com/articles/what-belongs-fine-dining-beverage-program/">Who Decides What 'Belongs' on a Fine-Dining Beverage Program?</a> </li> <li><a href="https://vinepair.com/city-guide/austin/">The Best Places to Drink in Austin</a> </li> <li><a href="https://vinepair.com/articles/vp-pro-qa-remi-cohen/">CEO Remi Cohen Is Continuing the Domaine Carneros History of Female Leadership</a> </li> 				</ul>
+			</div>
+			<!------DSK_Rectangle_2---->
+						<div id='DSK_Rectangle_2' class="adunit-lazy">
+							<script type='text/javascript' class='optanon-category-C0004'>
+								googletag.cmd.push(function() {
+							  		googletag.display('DSK_Rectangle_2');
+								});
+							</script>
+						</div>
+			
+				
+</aside>
+
+
+
+	</div>
+</div>
+
+<div class="main-container  pre-footer-ad-container">
+	
+					<div class="grid-x">
+							
+					<div class="cell small-12 medium-8">
+				
+						 <!-----DSK_Leaderboard_2---->
+
+						<div id      = 'DSK_Leaderboard_2' class="adunit-lazy">
+						                                                <script type = 'text/javascript' class='optanon-category-C0004'>
+						                                                        googletag.cmd.push(function() {
+						                                                  googletag.display('DSK_Leaderboard_2');
+						                                                });
+						                                                </script>
+
+						                                                </div>
+						
+				
+					</div>
+								<div class="cell small-12 medium-8">
+					<!-- removed content recoo units -->
+				</div>
+							</div>
+			
+</div>
+<div class="main-container fbd-main-container pre-footer-parent">
+	<div class="main-grid">
+		<!-- Each post type's pre-footer goes here -->
+		<div class="pre-footer">
+
+											
+				
+		</div>
+	</div>
+</div>
+
+
+<footer class="footer">
+    <div class="footer-container">
+		
+		<div class="grid-x pre-inside-footer-matter">
+			<div class="cell small-12 medium-2 medium-offset-5">
+				<img class="footer-logo" src="https://vinepair.com/wp-content/themes/elmyr/src/assets/images/droplet-footer.png" alt="VinePair"  data-pin-nopin="true" width="40" height="40" loading="lazy" />
+			</div>
+			<div class="cell small-12 medium-4 medium-offset-4">
+				&copy; 2014 - 2022 VinePair Inc. — Made In NYC
+				
+			</div>
+			<style type="text/css">.social-footer-row svg { margin-left: 5px; margin-right: 5px;}</style>
+			<div class="cell small-12 medium-2 medium-offset-5 social-footer-row">
+				<a href="https://www.facebook.com/Vinepair/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z"/></svg></a>
+				<a href="https://twitter.com/Vinepair/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"/></svg></a>
+				<a href="https://www.pinterest.com/vinepair/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.372-12 12 0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146 1.124.347 2.317.535 3.554.535 6.627 0 12-5.373 12-12 0-6.628-5.373-12-12-12z" fill-rule="evenodd" clip-rule="evenodd"/></svg></a>
+				<a href="https://www.instagram.com/Vinepair/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg></a>
+			</div>
+		</div>
+		
+		
+        <div class="footer-grid">
+			
+			<section id="nav_menu-22" class="widget widget_nav_menu"><span>Trending Topics</span><div class="menu-footer-left-container"><ul id="menu-footer-left" class="menu"><li id="menu-item-99193" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-first menu-item-99193"><a href="https://vinepair.com/buy-this-booze/30-best-bourbons-2021/">Best Bourbon</a></li>
+<li id="menu-item-60196" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-60196"><a title="Best Champagnes (UPDATED 2021)" href="https://vinepair.com/buy-this-booze/best-champagne-now/">Best Champagnes</a></li>
+<li id="menu-item-114771" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-114771"><a href="https://vinepair.com/buy-this-booze/best-non-alcoholic-beers/">Best Non-Alcoholic Beers</a></li>
+<li id="menu-item-49756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49756"><a href="https://vinepair.com/explore/category-type/champagne/">Champagne</a></li>
+<li id="menu-item-108139" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-108139"><a href="https://vinepair.com/buy-this-booze/20-best-cognacs-price-2019/">Cognac</a></li>
+<li id="menu-item-90003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90003"><a href="https://vinepair.com/explore/category-type/hard-seltzer/">Hard Seltzer</a></li>
+<li id="menu-item-85616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85616"><a href="https://vinepair.com/wine-blog/drunk-aunt-right-hot-toddy-cure-common-cold/">Hot Toddy</a></li>
+<li id="menu-item-79842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79842"><a href="https://vinepair.com/explore/category-type/irish-whiskey/">Irish Whiskey</a></li>
+<li id="menu-item-28800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28800"><a title="Mezcal &#8211; Learn About Mezcal" href="https://vinepair.com/articles/different-types-mezcal-explained/">Mezcal</a></li>
+<li id="menu-item-41934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41934"><a title="Moscato – Learn About Moscato Wine" href="https://vinepair.com/wine-101/learn-about-moscato-wine/">Moscato</a></li>
+<li id="menu-item-57414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57414"><a title="Prosecco" href="https://vinepair.com/explore/category-type/prosecco/">Prosecco</a></li>
+<li id="menu-item-28799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-last menu-item-28799"><a href="https://vinepair.com/explore/category-type/scotch/">Scotch</a></li>
+</ul></div></section><section id="text-35" class="widget widget_text">			<div class="textwidget"><!-- No Nav --></div>
+		</section><section id="nav_menu-5" class="widget widget_nav_menu"><span>Find &#038; Follow Us</span><div class="menu-social-footer-container"><ul id="menu-social-footer" class="menu"><li id="menu-item-28745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first menu-item-28745"><a href="https://vinepair.com/about-us/">About VinePair</a></li>
+<li id="menu-item-42838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42838"><a href="https://vinepair.com/advertising/">Advertise With Us</a></li>
+<li id="menu-item-21905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21905"><a target="_blank" rel="noopener" href="https://vinepair.com/careers/">Careers</a></li>
+<li id="menu-item-28746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28746"><a href="https://vinepair.com/ethics-samples-policy/">Ethics &#038; Samples</a></li>
+<li id="menu-item-28747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28747"><a href="https://vinepair.com/contact/">Contact Us</a></li>
+<li id="menu-item-88302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88302"><a href="https://vinepair.com/how-to-pitch-vinepair/">How To Pitch Us</a></li>
+<li id="menu-item-28748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-last menu-item-28748"><a href="https://vinepair.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div></section>        </div>
+    </div>
+</footer>
+
+
+<!-- begin wp footer -->
+<script type='text/javascript' src='https://vinepair.com/wp-content/themes/elmyr/dist/assets/js/app.js?ver=2.10.6' id='foundation-js'></script>
+<script type="text/javascript" id="flying-scripts">const loadScriptsTimer=setTimeout(loadScripts,5*1000);const userInteractionEvents=["mouseover","keydown","touchstart","touchmove","wheel"];userInteractionEvents.forEach(function(event){window.addEventListener(event,triggerScriptLoader,{passive:!0})});function triggerScriptLoader(){loadScripts();clearTimeout(loadScriptsTimer);userInteractionEvents.forEach(function(event){window.removeEventListener(event,triggerScriptLoader,{passive:!0})})}
+function loadScripts(){document.querySelectorAll("script[data-type='lazy']").forEach(function(elem){elem.setAttribute("src",elem.getAttribute("data-src"))})}</script>
+    <!-- end wp footer -->
+
+<div id="searchForm">
+	<div class="grid-x">
+		<div class="cell small-12 close-container">
+			<div><a href="#" id="closeSearch"><svg style="height: 20px; width: 20px;"version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewbox="0 0 110.48 110.48" xml:space="preserve"><style type="text/css">	.close-search-svg{fill:#F04E52;}</style><path class="close-search-svg" d="M60.9,55.24l45.81-45.81c1.56-1.56,1.56-4.09,0-5.66c-1.56-1.56-4.1-1.56-5.66,0L55.24,49.58L9.43,3.77	c-1.56-1.56-4.09-1.56-5.66,0c-1.56,1.56-1.56,4.09,0,5.66l45.81,45.81L3.77,101.05c-1.56,1.56-1.56,4.09,0,5.66	c0.78,0.78,1.8,1.17,2.83,1.17s2.05-0.39,2.83-1.17L55.24,60.9l45.81,45.81c0.78,0.78,1.8,1.17,2.83,1.17s2.05-0.39,2.83-1.17	c1.56-1.56,1.56-4.09,0-5.66L60.9,55.24z"/></svg>
+</a></div>
+		</div>
+	</div>
+	<div class="search-container grid-x">
+		<div class="cell small-12">
+			
+		</div>
+		<div class="cell small-12">
+			
+<form role="search" method="get" id="searchform" action="/">
+		<div class="input-group grid-x">
+			<div class="cell small-12 medium-10 field-cell">
+				<input type="text" class="input-group-field" value="" name="s" id="s" placeholder="Search...">
+			</div>
+			<div class="cell small-12 medium-2 button-cell">
+				<div class="input-group-button">
+					<input type="submit" id="searchsubmit" value="Search" class="button">
+				</div>
+			</div>
+	</div>
+</form>
+
+		</div>
+		
+		<div class="cell small-12">
+			
+		</div>
+	</div>
+</div>
+
+										
+
+
+		<!-- Desktop outstream-->
+		<div id='div-gpt-ad-1509556474574-0' style='height:1px; width:1px;' class="adv">
+		<script type='text/javascript' class='optanon-category-C0004'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1509556474574-0'); });
+		</script>
+
+
+
+<!--<script async defer type="text/javascript" src="//assets.pinterest.com/js/pinit.js"   class="optanon-category-C0008"></script>-->
+
+
+<ul id="hidden-post-list" style="display: none;">
+<ul class="previous-post-item previous-post-item-1"><li class="previous-post-item-title">How Chile Became One of the Most Sustainable Winemaking Countries in the World | VinePair</li><li class="previous-post-item-id">90218</li><li class="previous-post-item-url">https://vinepair.com/articles/how-chile-became-one-of-the-most-sustainable-winemaking-countries-in-the-world/</li><li class="previous-post-item-date">2020-12-07</li><li class="previous-post-item-author"></li><li class="previous-post-item-editorial-type">unset</li><li class="previous-post-item-cbsectionlist">wbs_cat Wine,  chile, sustainability, wines of chile</li></ul><div class="inf-manual"><a href="https://vinepair.com/articles/mezzacorona-delisa-infographic/?recirc=true"></a></div><ul class="previous-post-item previous-post-item-2"><li class="previous-post-item-title">A Wine Made for the Longest Days of the Year [INFOGRAPHIC] | VinePair</li><li class="previous-post-item-id">118090</li><li class="previous-post-item-url">https://vinepair.com/articles/mezzacorona-delisa-infographic/</li><li class="previous-post-item-date">2022-05-02</li><li class="previous-post-item-author">Mark Stock</li><li class="previous-post-item-editorial-type">unset</li><li class="previous-post-item-cbsectionlist">wbs_cat Wine, wbs_type Pinot Grigio, wbs_type Rosé, wbs_brand delisa, wbs_brand Mezzacorona,  pinot grigio, pinot grigio rose, Rosé, spring, Wine</li></ul></ul>
+<!-- Final Scripts -->
+<script type="text/javascript" class="optanon-category-C0004">
+  $(document).ready(function() {
+	  
+	 /*
+    var adIdsToHide = adUnits.filter(function(ad) { return ad.mobile !== isMobile; });
+
+    adIdsToHide.forEach(function(ad) {
+      jQuery('#' + ad.code).hide();
+    });
+	  */
+
+    if ($('#DSK_Rectangle_2').length) {
+	      var fixStart;
+	      $(window).on('scroll', function () {
+	        var screenTop = jQuery(window).scrollTop();
+	        var adTop = jQuery('#DSK_Rectangle_2').offset().top;
+
+			var distanceFromBottom = Math.floor(jQuery(document).height() - jQuery(document).scrollTop() - jQuery(window).height());
+			if (distanceFromBottom < 1200) {
+			  $('#DSK_Rectangle_2').removeClass('fixed-ad');
+			  return;
+			}
+
+	        if (adTop < screenTop) {
+	          if (!fixStart) {
+	            fixStart = adTop
+	          }
+	          if (!$('#DSK_Rectangle_2').hasClass('fixed-ad')) {
+	            $('#DSK_Rectangle_2').addClass('fixed-ad');
+	          }
+	        } else {
+	          if (screenTop < fixStart) {
+	            if (jQuery('#DSK_Rectangle_2').hasClass('fixed-ad')) {
+	              jQuery('#DSK_Rectangle_2').removeClass('fixed-ad');
+	            }
+	          }
+	        }
+	      });
+	    }
+
+
+  });
+
+</script>
+
+
+
+<!-- Quantcast Tag -->
+<script async type="text/javascript" class="optanon-category-C0002" data-type="lazy" data-src="data:text/javascript;base64,CnZhciBfcWV2ZW50cyA9IF9xZXZlbnRzIHx8IFtdOwoKKGZ1bmN0aW9uKCkgewp2YXIgZWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwplbGVtLnNyYyA9IChkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCA9PSAiaHR0cHM6IiA/ICJodHRwczovL3NlY3VyZSIgOiAiaHR0cDovL2VkZ2UiKSArICIucXVhbnRzZXJ2ZS5jb20vcXVhbnQuanMiOwplbGVtLmFzeW5jID0gdHJ1ZTsKZWxlbS50eXBlID0gInRleHQvamF2YXNjcmlwdCI7CnZhciBzY3B0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOwpzY3B0LnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGVsZW0sIHNjcHQpOwp9KSgpOwoKX3FldmVudHMucHVzaCh7CnFhY2N0OiJwLXhBMXJFcVFHcS1ERy0iCn0pOwo="></script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-xA1rEqQGq-DG-.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>
